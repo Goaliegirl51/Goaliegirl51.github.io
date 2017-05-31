@@ -1,0 +1,88 @@
+body{
+  background-color: violet;
+}
+
+.becca{
+  width: 15%;
+  position: relative;
+  left: 610px;
+}
+
+#dh{
+  width: 13%;
+  position: relative;
+  top: 350px;
+  right: 1017px;
+}
+
+#dreams{
+  width: 13%;
+  position: relative;
+  top: 350px;
+  left: 1010px;
+}
+
+h1{
+  position: absolute;
+  left: 584px;
+  font-size: 45px;
+}
+
+h2{
+  position: absolute;
+  left: 220px;
+  top: 600px;
+}
+
+#movie{
+  position: relative;
+  top: 309px;
+  left: 855px;
+}
+
+.boxed p{
+  position: absolute;
+  top: 300px;
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+
+.boxed{
+  margin: auto;
+  position: relative;
+  bottom: 460px;
+  z-index: -1;
+  box-sizing: border-box;
+  border: 5px solid black;
+  width: 1020px;
+  height: 1020px;
+  background-color: lightblue;
+}
+#button1{
+    background-color: blue;
+    border: 2.5px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: relative;
+    left: 500px;
+    bottom: 550px;
+}
+
+#button2{
+    background-color: green;
+    border: 2.5 solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: relative;
+    left: 600px;
+    bottom: 550px;
+}
